@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Form Example</title>
+		<style>
+			body {
+				font-family: Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
+				font-size: 1.25m;
+			}
+
+			div, form {
+				width: 300px;
+			}
+
+			label {
+				float: left;
+				clear: left;
+				width: 100%;
+				text-align: right;
+			}
+
+			input[type="text"] {
+				width: 180px;
+			}
+
+			input[type="submit"] {
+				background-color: #41c67d;
+				color: #f4f4f4;
+				border-radius: 12px;
+				padding: 5px 10px;
+				float: right;
+			}
+		</style>
+	</head>
+	<body>
+	<form action="formget.php" method="get">
+	  <div><label for="firstname">First name:
+	    <input type="text" name="firstname" id="firstname"></label>
+	  </div>
+	  <div><label for="lastname">Last name:
+	    <input type="text" name="lastname" id="lastname"></label></div>
+	  <div><input type="submit" value="GO"></div>
+	</form>
+	</body>
+</html>
