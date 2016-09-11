@@ -16,19 +16,19 @@ This repo contains code I worked on through the a premium course on Sitepoint en
 
 ###Lesson 4
 
-[Ifname][8] - A simple if/else statement
-[Iffirstlast][9] - A simple if/else statement that checks two variables with 'a
-[Count10][10] - A simple if/else statement that checks two variables with 'and'
-[Count10][11]-for - A simple program that counts to ten using a while and for loop
-[Count10][12]-template - Count10 example using a PHP template with include
-[Welcome][13] - Simple controller file that loads a different template based on whether or not the input has been entered.
+* [Ifname][8] - A simple if/else statement
+* [Iffirstlast][9] - A simple if/else statement that checks two variables with 'a
+* [Count10][10] - A simple if/else statement that checks two variables with 'and'
+* [Count10][11]-for - A simple program that counts to ten using a while and for loop
+* [Count10][12]-template - Count10 example using a PHP template with include
+* [Welcome][13] - Simple controller file that loads a different template based on whether or not the input has been entered.
 
 ###Lesson 6
 
-[Connect][14] - Connect to the MySQL DB using mysqli.
-[Create table][15] - Connect to the database and create a table using CREATE command in an SQL query
-[Update chicken][16] - Make a single update to a row using UPDATE command in an SQL query
-[List Jokes][17] - List all the jokes using a SELECT command in an SQL query and displaying the results using a PHP template and a foreach loop
+* [Connect][14] - Connect to the MySQL DB using mysqli.
+* [Create table][15] - Connect to the database and create a table using CREATE command in an SQL query
+* [Update chicken][16] - Make a single update to a row using UPDATE command in an SQL query
+* [List Jokes][17] - List all the jokes using a SELECT command in an SQL query and displaying the results using a PHP template and a foreach loop
 
 
 [1]: https://www.sitepoint.com/premium/courses/php-mysql-web-development-for-beginners-13
