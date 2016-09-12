@@ -34,6 +34,8 @@ This repo contains code I worked on through the a premium course on Sitepoint en
 * [Add Joke][18] - Added the ability to add a joke to the DB
 * [Delete Joke][19] - Added the ability to delete a joke from the DB
 
+
+
 [KY]: https://github.com/sentience
 [1]: https://www.sitepoint.com/premium/courses/php-mysql-web-development-for-beginners-13
 [2]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson1/today.php
@@ -52,3 +54,5 @@ This repo contains code I worked on through the a premium course on Sitepoint en
 [15]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson6/createtable
 [16]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson6/updatechicken
 [17]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson6/listjokes
+[18]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson7/addjoke
+[19]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson7/deletejoke
