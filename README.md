@@ -1,6 +1,6 @@
 #PHP & MySQL intro
 
-This repo contains code I worked on through the a premium course on Sitepoint entitled [PHP & MySQL Web Development for Beginners][1], by Kevin Yank.
+This repo contains code I worked on through the a premium course on Sitepoint entitled [PHP & MySQL Web Development for Beginners][1], by [Kevin Yank][KY].
 
 ##Lesson Breakdown
 
@@ -30,7 +30,11 @@ This repo contains code I worked on through the a premium course on Sitepoint en
 * [Update chicken][16] - Make a single update to a row using UPDATE command in an SQL query
 * [List Jokes][17] - List all the jokes using a SELECT command in an SQL query and displaying the results using a PHP template and a foreach loop
 
+###Lesson 7
+* [Add Joke][18] - Added the ability to add a joke to the DB
+* [Delete Joke][19] - Added the ability to delete a joke from the DB
 
+[KY]: https://github.com/sentience
 [1]: https://www.sitepoint.com/premium/courses/php-mysql-web-development-for-beginners-13
 [2]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson1/today.php
 [3]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson3/name.html
