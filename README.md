@@ -34,6 +34,10 @@ This repo contains code I worked on through the a premium course on Sitepoint en
 * [Add Joke][18] - Added the ability to add a joke to the DB
 * [Delete Joke][19] - Added the ability to delete a joke from the DB
 
+###Lesson 8
+* [Jokes][20] - Added a second table *authors* and added the primary key as a foreign key in the *jokes* table.
+
+
 
 
 [KY]: https://github.com/sentience
@@ -56,3 +60,4 @@ This repo contains code I worked on through the a premium course on Sitepoint en
 [17]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson6/listjokes
 [18]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson7/addjoke
 [19]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson7/deletejoke
+[20]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson8/jokes
