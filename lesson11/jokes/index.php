@@ -1,6 +1,6 @@
 <?php
 
-include_once $_SERVER['DOCUMENT ROOT'] . 'projects/sitepoint-phpmysql/includes/magicquotes.inc.php';
+include_once $_SERVER['DOCUMENT_ROOT'] . 'projects/sitepoint-phpmysql/includes/magicquotes.inc.php';
 
 if (isset($_GET['addjoke']))
 {
@@ -8,7 +8,7 @@ if (isset($_GET['addjoke']))
 	exit();
 }
 
-include_once $_SERVER['DOCUMENT ROOT'] . 'projects/sitepoint-phpmysql/includes/db.inc.php';
+include_once $_SERVER['DOCUMENT_ROOT'] . 'projects/sitepoint-phpmysql/includes/db.inc.php';
 
 if (isset($_POST['joketext']))
 {
