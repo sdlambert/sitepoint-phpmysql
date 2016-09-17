@@ -37,6 +37,10 @@ This repo contains code I worked on through the a premium course on Sitepoint en
 ###Lesson 8
 * [Jokes][20] - Added a second table *authors* and added the primary key as a foreign key in the *jokes* table.
 
+###Lesson 11
+* [Calculate Area][21] - A simple function example
+* [Jokes][22] - The jokes database app, but now utilizing a global includes folder and functions
+
 
 
 
@@ -61,3 +65,5 @@ This repo contains code I worked on through the a premium course on Sitepoint en
 [18]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson7/addjoke
 [19]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson7/deletejoke
 [20]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson8/jokes
+[21]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson11/calculate-area
+[22]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson11/jokes
