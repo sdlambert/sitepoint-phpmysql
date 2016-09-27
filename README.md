@@ -42,9 +42,9 @@ This repo contains code I worked on through the a premium course on Sitepoint en
 * [Jokes][22] - The jokes database app, but now utilizing a global includes folder and functions
 
 ###Lesson12
-[Admin Page][23] - Added general CMS administration page
-[Author Admin Page][24] - Added an administrative interface for author adds, deletes and updates
-[Categories Admin Page][24] - Added an administrative interface for category adds, deletes and updates
+* [Admin Page][23] - Added general CMS administration page
+* [Author Admin Page][24] - Added an administrative interface for author adds, deletes and updates
+* [Categories Admin Page][24] - Added an administrative interface for category adds, deletes and updates
 
 
 [KY]: https://github.com/sentience
