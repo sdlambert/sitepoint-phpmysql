@@ -44,7 +44,7 @@ This repo contains code I worked on through the a premium course on Sitepoint en
 ###Lesson12
 * [Admin Page][23] - Added general CMS administration page
 * [Author Admin Page][24] - Added an administrative interface for author adds, deletes and updates
-* [Categories Admin Page][24] - Added an administrative interface for category adds, deletes and updates
+* [Categories Admin Page][25] - Added an administrative interface for category adds, deletes and updates
 
 
 [KY]: https://github.com/sentience
