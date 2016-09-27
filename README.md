@@ -41,7 +41,10 @@ This repo contains code I worked on through the a premium course on Sitepoint en
 * [Calculate Area][21] - A simple function example
 * [Jokes][22] - The jokes database app, but now utilizing a global includes folder and functions
 
-
+###Lesson12
+[Admin Page][23] - Added general CMS administration page
+[Author Admin Page][24] - Added an administrative interface for author adds, deletes and updates
+[Categories Admin Page][24] - Added an administrative interface for category adds, deletes and updates
 
 
 [KY]: https://github.com/sentience
@@ -67,3 +70,6 @@ This repo contains code I worked on through the a premium course on Sitepoint en
 [20]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson8/jokes
 [21]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson11/calculate-area
 [22]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson11/jokes
+[23]: https://github.com/sdlambert/sitepoint-intro-php/blob/master/lesson12/admin/
+[24]: https://github.com/sdlambert/sitepoint-intro-php/blob/master/lesson12/admin/authors
+[25]: https://github.com/sdlambert/sitepoint-intro-php/blob/master/lesson12/admin/categories
