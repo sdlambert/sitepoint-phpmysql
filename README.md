@@ -70,6 +70,6 @@ This repo contains code I worked on through the a premium course on Sitepoint en
 [20]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson8/jokes
 [21]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson11/calculate-area
 [22]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson11/jokes
-[23]: https://github.com/sdlambert/sitepoint-intro-php/blob/master/lesson12/admin/
-[24]: https://github.com/sdlambert/sitepoint-intro-php/blob/master/lesson12/admin/authors
-[25]: https://github.com/sdlambert/sitepoint-intro-php/blob/master/lesson12/admin/categories
+[23]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson12/admin/
+[24]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson12/admin/authors
+[25]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson12/admin/categories
