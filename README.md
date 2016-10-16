@@ -49,6 +49,7 @@ This repo contains code I worked on through the a premium course on Sitepoint en
 ### Lesson 13
 * [Jokes Admin Page][26] - Added new Jokes admin page
 
+* [Joke Database CMS Interface][27] - Enhcanced the CMS page further by adding in passwords and role permissions through the use of PHP Sessions.
 
 [KY]: https://github.com/sentience
 [1]: https://www.sitepoint.com/premium/courses/php-mysql-web-development-for-beginners-13
@@ -77,3 +78,4 @@ This repo contains code I worked on through the a premium course on Sitepoint en
 [24]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson12/admin/authors
 [25]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson12/admin/categories
 [26]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson13/admin/jokes
+[27]: https://github.com/sdlambert/sitepoint-introphp/blob/master/lesson14/admin/
